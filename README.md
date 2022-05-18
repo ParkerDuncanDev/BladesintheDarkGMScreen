@@ -5,6 +5,14 @@ A web based GM screen for Blades in the Dark by John Harper
 
 
 
+## Goals:
+A collapsible notes sidebar that allows creation of custom notes and linking them with tags.
+
+A Clock generator sidebar that allows creation and tracking of event clocks
+
+a dice roller
+
+a main board that contains relevant info to the current game state
 ## How It's Made:
 
 **Tech used:** HTML, CSS, JavaScript
