@@ -3,7 +3,7 @@ A web based GM screen for Blades in the Dark by John Harper
 
 **Link to project:** 
 
-![alt tag](http://placecorgi.com/1200/650)
+
 
 ## How It's Made:
 
